@@ -19,7 +19,8 @@ Presenting “Group Tabs and Share”… With this extension you can select the 
 <img src="https://github.com/Group-Tabs-and-Share/Browser-Extension/blob/master/Images/01%20-%20UI.png" width="400">
 
 # Download Link :
-https://microsoftedge.microsoft.com/insider-addons/detail/nicenlgaffcdkefcgpkmgbbmpfgdjihb?hl=en-US
+https://microsoftedge.microsoft.com/addons/category/EdgeExtensionsLab?hl=en-US
+(This extension is currently available on Microsoft Chromium Edge Extension Lab and is accessible only using the canary version of Chromium Edge)
 
 # Steps to use the Extension :
 1) Launch the extension:
